@@ -7,10 +7,10 @@ import SaleImage from "./components/SaleImage"
 import AdvertisingSection from "./components/AdvertisingSection"
 import RecommendedSection from "./components/RecommendedSection"
 import Topics from "./components/Topics"
-import compimage from "./assets/images/compimage.jpeg"
-import MarketingImage from "./MarketingImage"
 import MostPopular from "./components/MostPopular"
 import Footer from "./components/Footer"
+
+
 const root = ReactDOM.createRoot(document.getElementById("root"))
 
 
